@@ -10,7 +10,10 @@ def main():
 
   print(third - fourth)
 
+  fith = (first + second)
+  sixth = (third - fourth)
 
+  print(fith + sixth)
 
 
 
